@@ -145,3 +145,4 @@ for month_name, month_number in MONTHS:
 print("\n" + "=" * 70)
 print(f"📁 Все 12 файлов созданы в папке: {test_folder.absolute()}")
 print("=" * 70)
+#Made by https://github.com/Serega210810

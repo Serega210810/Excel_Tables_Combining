@@ -141,3 +141,4 @@ print(f"   📈 Чистая прибыль: {year_profit:>12,} ₽")
 print("=" * 90)
 print(f"\n📁 Все 12 файлов созданы в папке: {test_folder.absolute()}")
 print("\nТеперь запусти программу объединения и укажи этот путь!")
+#Made by https://github.com/Serega210810
